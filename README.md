@@ -1,5 +1,12 @@
 # 💫 About Me:
-i am student at iit madras diploma batch 
+
+🎓 Student at IIT Madras — Diploma Program, EIT Batch
+
+💻 I enjoy building projects, exploring new technologies, and continuously improving my technical skills.
+
+🚀 Interests: Machine Learning • AI • Technology • Programming • Problem Solving
+
+🌱 Always learning. Always building. Always exploring what’s next in tech.
 
 
 # 💻 Tech Stack:
